@@ -20,7 +20,7 @@ It includes data cleaning, exploratory data analysis (EDA), and visualizations t
 ## Insights
 - Large, medium, and small pizzas dominate sales, while XL and XXL sell very little.
 - Top 5 pizzas account for a significant portion of total sales.
-- Sales peak at lunch (12–14 hours) and dinner (16–20 hours).
+- Sales peak at lunch (12–13 hours) and dinner (17–19 hours).
 - July, May, and March are the strongest sales months.
 - Some pizza types (e.g., Brie Carre Pizza) underperform significantly.
 ## Conclusion
